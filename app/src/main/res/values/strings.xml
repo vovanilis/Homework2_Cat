@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Поиск кота Шрёдинберга</string>
+    <string name="text">Координаты касания</string>
+</resources>
